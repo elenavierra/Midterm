@@ -1,0 +1,9 @@
+<!doctype html>
+<head>
+</head>
+<body>
+Hello, world!
+  <script>
+    var x = 5
+  </script>
+</body>
